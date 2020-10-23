@@ -1,12 +1,10 @@
 {
-    "results": [
-        {
-            "elevation": 1604,
-            "location": {
-                "lat": 39.747114,
-                "lng": -104.996334
-            }
+    "results": [{
+        "elevation": 815.0,
+        "location": {
+            "lat": 56.0,
+            "lng": 123.0
         }
-    ],
+    }],
     "status": "OK"
 }
